@@ -6,4 +6,7 @@ Opgave beskrivelse:
 
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/106598771/211505519-b8eeb991-bcdf-4b34-8a78-7db53a158c8d.png">
 <img width="860" alt="image" src="https://user-images.githubusercontent.com/106598771/211505963-c7972059-4ffa-46c2-b46d-a02e440982d3.png">
+
+database:
+
 <img width="173" alt="image" src="https://user-images.githubusercontent.com/106598771/211507255-2220a33f-03fd-41f4-b717-cfc93fc63052.png">
